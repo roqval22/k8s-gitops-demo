@@ -63,3 +63,4 @@ HERRAMIENTAS NECESARIAS
 ●GrafanaCloud (gratis) o instalación local
 ●Editor de código como VS Code
 ●Opcional: CLI de Terraform(si se utiliza)
+Sdx5xNU8v19WyEAd
