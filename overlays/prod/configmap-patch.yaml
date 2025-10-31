@@ -1,0 +1,5 @@
+metadata:
+  name: webapp-config
+data:
+  APP_ENV: "production"
+  LOG_LEVEL: "warn"
