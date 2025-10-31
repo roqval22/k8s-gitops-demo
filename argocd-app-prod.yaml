@@ -8,8 +8,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<YOUR-USERNAME>/k8s-gitops-demo
-    targetRevision: main
+    repoURL: https://github.com/roqval22/devops-course
+    targetRevision: develop
     path: overlays/prod
   destination:
     server: https://kubernetes.default.svc

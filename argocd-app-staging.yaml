@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/roqval22/devops-course
-    targetRevision: main
+    targetRevision: develop
     path: overlays/staging
   destination:
     server: https://kubernetes.default.svc
