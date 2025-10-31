@@ -9,7 +9,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/roqval22/devops-course
+    repoURL: https://github.com/roqval22/k8s-gitops-demo
     targetRevision: develop
     path: overlays/dev
   
