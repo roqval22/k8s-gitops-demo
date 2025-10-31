@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<YOUR-USERNAME>/k8s-gitops-demo
+    repoURL: https://github.com/roqval22/devops-course
     targetRevision: main
     path: overlays/staging
   destination:
